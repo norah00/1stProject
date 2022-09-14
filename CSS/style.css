@@ -1,8 +1,12 @@
-<style> .class-for-index div{
+.class-for-index div{
   font-size:16px;
   color:red;
   background-color:blue;
 }
- </style>
+ 
 
+body {
+    background: lightyellow;
+    font: 18px Arial, sans-serif;
+}
 /*.class-for-room 
