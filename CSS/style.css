@@ -1,12 +1,12 @@
- div {
-  font-size:16px;
-  color:red;
-  background-color:blue;
+ h1 {
+  font-size:20px;
+  color: aliceblue;
+  background-color: ;
 }
  
 
 body {
-    background: lightyellow;
+    background:antiquewhite;
     font: 18px;
 }
 /*.class-for-room 
